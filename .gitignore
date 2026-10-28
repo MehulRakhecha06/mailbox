@@ -1,0 +1,11 @@
+# Environment credentials & local session tokens
+.env
+credentials.json
+token.pickle
+
+# Python compilation cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
